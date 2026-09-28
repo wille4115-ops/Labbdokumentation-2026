@@ -1,2 +1,2 @@
 # Labb rapport vecka 4
-|IPv4 Address|
+|Hostname|IPv4 Address| Subnätmask| Standard gateway|
